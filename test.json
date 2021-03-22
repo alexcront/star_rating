@@ -1,0 +1,39 @@
+{
+  "spots": [
+    {
+      "id": 0,
+      "country": "Romania",
+      "lat": -44,
+      "long": -44,
+      "probability": 22,
+      "month": "August",
+      "name": "Suceava"
+    },
+    {
+      "id": 1,
+      "country": "Romania",
+      "lat": -42.2535,
+      "long": -4.55,
+      "probability": 55,
+      "month": "July",
+      "name": "Botosani"
+    }
+  ],
+  "login": [
+    {
+      "userId": 1,
+      "user": "alex",
+      "password": "alex",
+      "username": "alex"
+    },
+    {
+      "userId": 1,
+      "user": "lori",
+      "password": "lori",
+      "username": "lori"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
